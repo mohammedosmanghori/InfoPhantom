@@ -1,0 +1,6 @@
+{
+  "name": "DIGITAL DARK SPOT",
+  "description": "InfoPhantom: AI-Assisted Information Gap Detection Platform. Uncovers information hidden between scattered sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
